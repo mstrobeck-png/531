@@ -64,6 +64,7 @@
 
 	}
 
+// function for random color comes from what I learned in igme 330 when initially learning canvas
 	function getRandomColor(){
   		function getByte(){
     	return 55 + Math.round(Math.random() * 200);
